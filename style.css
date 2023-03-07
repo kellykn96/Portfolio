@@ -24,3 +24,9 @@
     transform: translate(-50%, -50%);
     color: rgb(254, 252, 252);
 }
+
+/* about section image css */
+.imageAboutPage {
+    width: 100%;
+
+}
